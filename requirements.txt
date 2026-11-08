@@ -1,0 +1,18 @@
+
+# Data processing
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Testing
+pytest
