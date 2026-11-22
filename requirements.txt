@@ -16,3 +16,6 @@ ipykernel
 
 # Testing
 pytest
+
+# Deep learning
+tensorflow
