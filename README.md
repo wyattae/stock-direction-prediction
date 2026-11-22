@@ -50,10 +50,9 @@ stock-direction-prediction/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_random_forest.ipynb
-│   ├── 03_logistic_regression.ipynb
-│   └── 04_lstm.ipynb
+│   ├── 01_random_forest.ipynb
+│   ├── 02_logistic_regression.ipynb
+│   └── 03_lstm.ipynb
 ├── src/
 │   ├── preprocessing.py
 │   ├── features.py
